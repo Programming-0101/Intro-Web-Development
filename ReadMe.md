@@ -8,6 +8,10 @@ You will need a **GitHub Account**; if you don't already have one, [sign up here
 
 - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 - [Code Editing with VS Code](https://code.visualstudio.com/docs/introvideos/codeediting)
+  - Open Folder + 
+  - Extensions
+    - "Auto Rename Tag" by Jun Han
+    - "Live Server" by Ritwick Dey
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) - Lab
 - [What is HTML?](https://www.html-5-tutorial.com/about-html.htm)
 - [What it's Not](https://www.html-5-tutorial.com/what-its-not.htm)
@@ -16,6 +20,14 @@ You will need a **GitHub Account**; if you don't already have one, [sign up here
 - [Links](https://www.learn-html.org/en/Links)
 - [Lists](https://www.learn-html.org/en/Lists)
 - [Images](https://www.learn-html.org/en/Images)
+- [Semantic Markup](https://html.com/semantic-markup/)
+  - **Document Structure**
+    - main, nav, header, footer, section, article, aside, div, span, 
+  - **Textual Meaning**
+    - h1-6, p, abbr, strong, em, mark, cite, blockquote, time
+  - **Correlation Tags**
+    - ul, figure, address
+  - **Form Tags**
 - [Styles](https://www.learn-html.org/en/Styles)
 - [Classes](https://www.learn-html.org/en/Classes)
 - [Selectors](https://www.learn-html.org/en/Selectors)
