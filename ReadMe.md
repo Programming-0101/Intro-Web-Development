@@ -2,7 +2,7 @@
 
 ## Tools/Accounts
 
-You will need a **GitHub Account**; if you don't already have one, [sign up here](). You will also need to install [Visual Studio Code]().
+You will need a **GitHub Account**; if you don't already have one, [sign up here](https://github.com/join?source=header-home). You will also need to install [Visual Studio Code](https://code.visualstudio.com/).
 
 ## Resources
 
