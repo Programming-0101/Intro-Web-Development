@@ -18,5 +18,6 @@ You will need a **GitHub Account**; if you don't already have one, [sign up here
 - [Classes](https://www.learn-html.org/en/Classes)
 - [Selectors](https://www.learn-html.org/en/Selectors)
 - [Pseudo-classes](https://www.learn-html.org/en/Pseudo-classes)
+- [Page Layout with CSS Grid]
 - [Uploading your project to GitHub](https://lab.github.com/githubtraining/uploading-your-project-to-github) - Lab
 - [Introduction to HTML](https://lab.github.com/githubtraining/introduction-to-html) - Lab
