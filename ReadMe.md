@@ -6,6 +6,7 @@ You will need a **GitHub Account**; if you don't already have one, [sign up here
 
 ## Resources
 
+- [Code Editing with VS Code](https://code.visualstudio.com/docs/introvideos/codeediting)
 - [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github) - Lab
 - [What is HTML?](https://www.html-5-tutorial.com/about-html.htm)
 - [What it's Not](https://www.html-5-tutorial.com/what-its-not.htm)
