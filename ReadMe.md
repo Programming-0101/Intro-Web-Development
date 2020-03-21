@@ -12,9 +12,9 @@
 >
 > - List the core programming languages used on the web
 > - Define the terms HTML, CSS and JS
-> - Identify which programming language is responsible for representing content in a web page
-> - Identify which programming language handles the presentation ("look and feel") of a web page
-> - Identify which programming language provides functionality in a web page
+> - Identify and describe 12 or more HTML elements
+> - Distinguish between tag names and attributes in HTML elements
+> - Create a simple HTML page with rudimentary content and images
 
 ### Delivery Plan
 
@@ -62,10 +62,13 @@
 
 ## Day02
 
-> (3.5 hrs) 
+> (?? hrs) 
 >
 > *At the end of this topic, you should be able to:*
 >
+> - Identify which programming language is responsible for representing content in a web page
+> - Identify which programming language handles the presentation ("look and feel") of a web page
+> - Identify which programming language provides functionality in a web page
 > - Explain the meaning of the following diagram
 > 
 >   ![Balanced Design](./Balance.png)
