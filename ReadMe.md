@@ -38,8 +38,11 @@ You will need a **GitHub Account**; if you don't already have one, [sign up here
 - Identify which programming language handles the presentation ("look and feel") of a web page
 - Identify which programming language provides functionality in a web page
 - Explain the meaning of the following diagram
+
   ![Balanced Design](./Balance.png)
+
 - Explain the meaning of the following diagram
+
   ![Overlapped Design](./Overlap.png)
 
 ----
