@@ -73,6 +73,9 @@
 ### Delivery Plan
 
 1. Review/Questions
+    - Using MDN as a research "source of truth"
+    - [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+    - [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 1. Online Readings/Interactive Exercises
     - [Selectors](https://www.learn-html.org/en/Selectors)
     - [Pseudo-classes](https://www.learn-html.org/en/Pseudo-classes)
