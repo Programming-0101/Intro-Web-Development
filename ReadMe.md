@@ -69,13 +69,6 @@
 > - Identify which programming language is responsible for representing content in a web page
 > - Identify which programming language handles the presentation ("look and feel") of a web page
 > - Identify which programming language provides functionality in a web page
-> - Explain the meaning of the following diagram
-> 
->   ![Balanced Design](./Balance.png)
-> 
-> - Explain the meaning of the following diagram
-> 
->   ![Overlapped Design](./Overlap.png)
 
 ### Delivery Plan
 
@@ -92,8 +85,17 @@
     - **Correlation Tags**
         - ul, figure, address
     - **Form Tags**
-- [Page Layout with CSS Grid]
+1. Page Layout with CSS Grid
+    - [What is CSS Grid Layout?](https://gridbyexample.com/what/) - 1 para, 
+1. Explain the meaning of the following diagram
 
+    ![Balanced Design](./Balance.png)
+
+1. Explain the meaning of the following diagram
+
+    ![Overlapped Design](./Overlap.png)
+
+1. 
 
 ### Appendix - Resources
 
