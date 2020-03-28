@@ -88,17 +88,25 @@
     - **Correlation Tags**
         - ul, figure, address
     - **Form Tags**
-1. Page Layout with CSS Grid
-    - [What is CSS Grid Layout?](https://gridbyexample.com/what/) - 1 para, 
-1. Explain the meaning of the following diagram
+2. [CSS Size Units](https://www.tutorialbrain.com/css_tutorial/css_units/)
+3. Page Layout with CSS Grid
+    - [What is CSS Grid Layout?](https://gridbyexample.com/what/)
+    - [Defining a Grid](https://gridbyexample.com/video/series-define-a-grid/) (Video)
+    - [The fr Unit](https://gridbyexample.com/video/series-the-fr-unit/) (Video)
+    - [Repeat Notation](https://gridbyexample.com/video/series-repeat/) (Video)
+    - [Auto-Placement and Order](https://gridbyexample.com/video/series-auto-placement-order/) (Video)
+    - [Line-Based Placement](https://gridbyexample.com/video/series-line-based-placement/) (Video)
+    - [Grid Template Areas](https://gridbyexample.com/video/grid-template-areas/) (Video)
+    - [More on Grid](https://gridbyexample.com/learn/) (Grid by Example)
+4. Explain the meaning of the following diagram
 
     ![Balanced Design](./Balance.png)
 
-1. Explain the meaning of the following diagram
+5. Explain the meaning of the following diagram
 
     ![Overlapped Design](./Overlap.png)
 
-1. 
+6. 
 
 ### Appendix - Resources
 
